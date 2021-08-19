@@ -1,3 +1,11 @@
-# The Sparks Foundation: Basic Banking System Project
+# The Sparks Foundation: Project on Basic Banking System
 
-A dynamic banking website to transfer money between multiple users.
+This task is performed as a part of my internship as a Web Development & Designing intern under Graduate Rotational Internship Program (GRIP) by The Sparks Foundation.
+
+Front-end: HTML,CSS,Bootstrap and Javascript
+Back-end: PHP
+Database: MySQL
+
+Flow of website: Home Page > View all Customers > Select and View one
+Customer > Transfer Money > Select customer to transfer to >
+View all Customers 
