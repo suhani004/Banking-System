@@ -2,7 +2,7 @@
 
 This task is performed as a part of my internship as a Web Development & Designing intern under Graduate Rotational Internship Program (GRIP) by The Sparks Foundation.
 
-Front-end: HTML,CSS,Bootstrap and Javascript
+Front-end: HTML,CSS,Bootstrap
 Back-end: PHP
 Database: MySQL
 
